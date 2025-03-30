@@ -32,7 +32,7 @@ Typical users of ChatALL are:
 | [Baidu ERNIE](https://yiyan.baidu.com/)                                        | No          | Yes         |                                             |
 | [Character.AI](https://character.ai/)                                          | Yes         | No API      |                                             |
 | [ChatGLM2 6B & 130B](https://chatglm.cn/)                                      | Yes         | No API      | No Login required                           |
-| [ChatGPT](https://chatgpt.com)                                             | Yes         | Yes         | Web Browsing, Azure OpenAI service included |
+| [ChatGPT](https://chatgpt.com)                                                 | Yes         | Yes         | Web Browsing, Azure OpenAI service included |
 | [Claude](https://www.anthropic.com/claude)                                     | Yes         | Yes         |                                             |
 | [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) | Yes         | No API      |                                             |
 | [Cohere Aya 23](https://cohere.com/blog/aya23)                                 | No          | Yes         |                                             |
@@ -46,7 +46,7 @@ Typical users of ChatALL are:
 | [Groq Cloud](https://console.groq.com/docs/models)                             | No          | Yes         |                                             |
 | [HuggingChat](https://huggingface.co/chat/)                                    | Yes         | No API      |                                             |
 | [iFLYTEK SPARK](http://xinghuo.xfyun.cn/)                                      | Yes         | Coming soon |                                             |
-| [Kimi](https://kimi.moonshot.cn/               )                               | Yes         | No API      |                                             |
+| [Kimi](https://kimi.moonshot.cn/)                                              | Yes         | No API      |                                             |
 | [Llama 2 13B & 70B](https://ai.meta.com/llama/)                                | Yes         | No API      |                                             |
 | [MOSS](https://moss.fastnlp.top/)                                              | Yes         | No API      |                                             |
 | [Perplexity](https://www.perplexity.ai/)                                       | Yes         | No API      |                                             |

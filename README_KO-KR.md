@@ -26,41 +26,41 @@ ChatALL의 일반적인 사용자는 다음과 같습니다:
 
 ### 지원되는 봇
 
-| AI 봇                                                                          | 웹 액세스 | API       | 참고                                                  |
-| ------------------------------------------------------------------------------ | --------- | --------- | ----------------------------------------------------- |
-| [360 AI Brain](https://ai.360.cn/)                                             | 예        | 없음      |                                                       |
-| [Baidu ERNIE](https://yiyan.baidu.com/)                                        | 아니오    | 예        |                                                       |
-| [Character.AI](https://character.ai/)                                          | 예        | 없음      |                                                       |
-| [ChatGLM2 6B & 130B](https://chatglm.cn/)                                      | 예        | 없음      | 로그인 필요 없음                                      |
-| [ChatGPT](https://chatgpt.com)                                             | 예        | 예        | 웹 브라우징 포함, Azure OpenAI 서비스                 |
-| [Claude](https://www.anthropic.com/claude)                                     | 예        | 예        |                                                       |
-| [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) | 예        | 없음      |                                                       |
-| [Cohere Aya 23](https://cohere.com/blog/aya23)                                 | 아니오    | 예        |                                                       |
-| [Cohere Command R 모델](https://cohere.com/command)                            | 아니오    | 예        |                                                       |
-| [Copilot](https://copilot.microsoft.com/)                                      | 예        | 없음      |                                                       |
-| [Dedao Learning Assistant](https://ai.dedao.cn/)                               | 근일 개봉 | 없음      |                                                       |
-| [Falcon 180B](https://huggingface.co/tiiuae/falcon-180B-chat)                  | 예        | 없음      |                                                       |
-| [Gemini](https://gemini.google.com/)                                           | 예        | 예        |                                                       |
-| [Gemma 2B & 7B](https://blog.google/technology/developers/gemma-open-models/)  | 예        | 없음      |                                                       |
-| [Gradio](https://gradio.app/)                                                  | 예        | 없음      | Hugging Face 공간/자체 배포 모델용                    |
-| [Groq Cloud](https://console.groq.com/docs/models)                             | 아니오    | 예        |                                                       |
-| [HuggingChat](https://huggingface.co/chat/)                                    | 예        | 없음      |                                                       |
-| [iFLYTEK SPARK](http://xinghuo.xfyun.cn/)                                      | 예        | 근일 개봉 |                                                       |
-| [Kimi](https://kimi.moonshot.cn/)                                              | 예        | 없음      |                                                       |
-| [Llama 2 13B & 70B](https://ai.meta.com/llama/)                                | 예        | 없음      |                                                       |
-| [MOSS](https://moss.fastnlp.top/)                                              | 예        | 없음      |                                                       |
-| [Perplexity](https://www.perplexity.ai/)                                       | 예        | 없음      |                                                       |
-| [Phind](https://www.phind.com/)                                                | 예        | 없음      |                                                       |
-| [Pi](https://pi.ai)                                                            | 예        | 없음      |                                                       |
-| [Poe](https://poe.com/)                                                        | 예        | 근일 개봉 |                                                       |
-| [SkyWork](https://neice.tiangong.cn/)                                          | 예        | 근일 개봉 |                                                       |
-| [Tongyi Qianwen](http://tongyi.aliyun.com/)                                    | 예        | 근일 개봉 |                                                       |
-| [Vicuna 13B & 33B](https://lmsys.org/blog/2023-03-30-vicuna/)                  | 예        | 없음      | 로그인 필요 없음                                      |
-| [WizardLM 70B](https://github.com/nlpxucan/WizardLM)                           | 예        | 없음      |                                                       |
-| [xAI Grok](https://x.ai)                                                       | 아니오    | 예        |                                                       |
-| [YouChat](https://you.com/)                                                    | 예        | 없음      |                                                       |
-| [You](https://you.com/)                                                        | 예        | 없음      |                                                       |
-| [Zephyr](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)              | 예        | 없음      |                                                       |
+| AI 봇                                                                          | 웹 액세스 | API       | 참고                                  |
+| ------------------------------------------------------------------------------ | --------- | --------- | ------------------------------------- |
+| [360 AI Brain](https://ai.360.cn/)                                             | 예        | 없음      |                                       |
+| [Baidu ERNIE](https://yiyan.baidu.com/)                                        | 아니오    | 예        |                                       |
+| [Character.AI](https://character.ai/)                                          | 예        | 없음      |                                       |
+| [ChatGLM2 6B & 130B](https://chatglm.cn/)                                      | 예        | 없음      | 로그인 필요 없음                      |
+| [ChatGPT](https://chatgpt.com)                                                 | 예        | 예        | 웹 브라우징 포함, Azure OpenAI 서비스 |
+| [Claude](https://www.anthropic.com/claude)                                     | 예        | 예        |                                       |
+| [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) | 예        | 없음      |                                       |
+| [Cohere Aya 23](https://cohere.com/blog/aya23)                                 | 아니오    | 예        |                                       |
+| [Cohere Command R 모델](https://cohere.com/command)                            | 아니오    | 예        |                                       |
+| [Copilot](https://copilot.microsoft.com/)                                      | 예        | 없음      |                                       |
+| [Dedao Learning Assistant](https://ai.dedao.cn/)                               | 근일 개봉 | 없음      |                                       |
+| [Falcon 180B](https://huggingface.co/tiiuae/falcon-180B-chat)                  | 예        | 없음      |                                       |
+| [Gemini](https://gemini.google.com/)                                           | 예        | 예        |                                       |
+| [Gemma 2B & 7B](https://blog.google/technology/developers/gemma-open-models/)  | 예        | 없음      |                                       |
+| [Gradio](https://gradio.app/)                                                  | 예        | 없음      | Hugging Face 공간/자체 배포 모델용    |
+| [Groq Cloud](https://console.groq.com/docs/models)                             | 아니오    | 예        |                                       |
+| [HuggingChat](https://huggingface.co/chat/)                                    | 예        | 없음      |                                       |
+| [iFLYTEK SPARK](http://xinghuo.xfyun.cn/)                                      | 예        | 근일 개봉 |                                       |
+| [Kimi](https://kimi.moonshot.cn/)                                              | 예        | 없음      |                                       |
+| [Llama 2 13B & 70B](https://ai.meta.com/llama/)                                | 예        | 없음      |                                       |
+| [MOSS](https://moss.fastnlp.top/)                                              | 예        | 없음      |                                       |
+| [Perplexity](https://www.perplexity.ai/)                                       | 예        | 없음      |                                       |
+| [Phind](https://www.phind.com/)                                                | 예        | 없음      |                                       |
+| [Pi](https://pi.ai)                                                            | 예        | 없음      |                                       |
+| [Poe](https://poe.com/)                                                        | 예        | 근일 개봉 |                                       |
+| [SkyWork](https://neice.tiangong.cn/)                                          | 예        | 근일 개봉 |                                       |
+| [Tongyi Qianwen](http://tongyi.aliyun.com/)                                    | 예        | 근일 개봉 |                                       |
+| [Vicuna 13B & 33B](https://lmsys.org/blog/2023-03-30-vicuna/)                  | 예        | 없음      | 로그인 필요 없음                      |
+| [WizardLM 70B](https://github.com/nlpxucan/WizardLM)                           | 예        | 없음      |                                       |
+| [xAI Grok](https://x.ai)                                                       | 아니오    | 예        |                                       |
+| [YouChat](https://you.com/)                                                    | 예        | 없음      |                                       |
+| [You](https://you.com/)                                                        | 예        | 없음      |                                       |
+| [Zephyr](https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat)              | 예        | 없음      |                                       |
 
 더 많은 것이 오고 있습니다. [이 문제들](https://github.com/ai-shifu/ChatALL/labels/more%20LLMs)에서 좋아하는 봇을 추천하세요.
 

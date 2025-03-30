@@ -97,7 +97,7 @@ This is an example of using LangChainBot. Since LangChainBot uses LangChainJS, i
 
 ```javascript
 // filepath: src/bots/KnowNothingBot.js
-import LangChainBot from '@/bots/LangChainBot';
+import LangChainBot from "@/bots/LangChainBot";
 
 class KnowNothingBot extends LangChainBot {
   static _className = "KnowNothingBot";
@@ -139,32 +139,32 @@ export default KnowNothingBot;
    Basic Bot Implementation
 
    ```javascript
-   import Bot from '@/bots/Bot';
+   import Bot from "@/bots/Bot";
 
    class KnowNothingBot extends Bot {
-       static _className = "KnowNothingBot";
-       static _name = "Know Nothing Bot";
-       static _description = "A bot that knows nothing";
+     static _className = "KnowNothingBot";
+     static _name = "Know Nothing Bot";
+     static _description = "A bot that knows nothing";
    }
    ```
 
    Or for LangChain-based Bot
 
    ```javascript
-   import LangChainBot from '@/bots/LangChainBot';
+   import LangChainBot from "@/bots/LangChainBot";
 
    class KnowNothingBot extends LangChainBot {
-       static _className = "KnowNothingBot";
-       static _name = "Know Nothing Bot";
-       static _description = "A bot that knows nothing";
+     static _className = "KnowNothingBot";
+     static _name = "Know Nothing Bot";
+     static _description = "A bot that knows nothing";
 
-       _setupModel() {
-           // Setup your LangChain model here
-       }
+     _setupModel() {
+       // Setup your LangChain model here
+     }
 
-       getPastRounds() {
-           return 1;
-       }
+     getPastRounds() {
+       return 1;
+     }
    }
    ```
 
