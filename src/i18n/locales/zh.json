@@ -201,6 +201,9 @@
     "found": "找到了第 {num} 篇资料：",
     "searching": "搜索中..."
   },
+  "doubao": {
+    "name": "豆包"
+  },
   "lmsys": {
     "name": "LMSYS",
     "vicuna-7b": "vicuna-7b",

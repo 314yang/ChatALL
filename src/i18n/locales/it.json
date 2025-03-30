@@ -202,6 +202,9 @@
     "found": "Trovato {num}: ",
     "searching": "Ricerca in corso..."
   },
+  "doubao": {
+    "name": "Doubao"
+  },
   "lmsys": {
     "name": "LMSYS",
     "vicuna-7b": "vicuna-7b",

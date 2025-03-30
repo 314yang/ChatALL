@@ -257,6 +257,9 @@
   "chatGlm": {
     "name": "ChatGLM"
   },
+  "doubao": {
+    "name": "Doubao"
+  },
   "pi": {
     "name": "Pi",
     "waitPiIntro": "Bấm vào link bên dưới để xem hướng dẫn sử dụng Pi, rồi đóng cửa sổ này lại"

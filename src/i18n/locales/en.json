@@ -201,6 +201,9 @@
     "found": "Found {num}: ",
     "searching": "Searching..."
   },
+  "doubao": {
+    "name": "Doubao"
+  },
   "lmsys": {
     "name": "LMSYS",
     "vicuna-7b": "vicuna-7b",

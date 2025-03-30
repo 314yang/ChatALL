@@ -201,6 +201,9 @@
     "found": "找到 {num}：",
     "searching": "搜尋中..."
   },
+  "doubao": {
+    "name": "Doubao"
+  },
   "lmsys": {
     "name": "LMSYS",
     "vicuna-7b": "vicuna-7b",

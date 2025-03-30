@@ -125,6 +125,7 @@ import ClaudeAIBotSettings from "./BotSettings/ClaudeAIBotSettings.vue";
 import ChatGLMBotSettings from "./BotSettings/ChatGLMBotSettings.vue";
 import CohereAPIBotSettings from "./BotSettings/CohereAPIBotSettings.vue";
 import KimiBotSettings from "./BotSettings/KimiBotSettings.vue";
+import DoubaoBotSettings from "./BotSettings/DoubaoBotSettings.vue";
 
 import { resolveTheme, applyTheme, Mode } from "../theme";
 import ClaudeAPIBotSettings from "./BotSettings/ClaudeAPIBotSettings.vue";
@@ -157,6 +158,7 @@ const botSettings = [
   { brand: "groqApi", component: GroqAPIBotSettings },
   { brand: "huggingChat", component: HuggingChatBotSettings },
   { brand: "kimi", component: KimiBotSettings },
+  { brand: "doubao", component: DoubaoBotSettings },
   { brand: "lmsys", component: LMSYSBotSettings },
   { brand: "mistral", component: MistralBotSettings },
   { brand: "moss", component: MOSSBotSettings },

@@ -201,6 +201,9 @@
     "found": "찾음 {num}: ",
     "searching": "검색 중..."
   },
+  "doubao": {
+    "name": "Doubao"
+  },
   "lmsys": {
     "name": "LMSYS",
     "vicuna-7b": "vicuna-7b",

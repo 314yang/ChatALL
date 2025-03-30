@@ -51,6 +51,7 @@ import WenxinQianfan4Bot from "./baidu/WenxinQianfan4Bot";
 import GeminiAdvBot from "./google/GeminiAdvBot";
 import ChatGLM4Bot from "./zhipu/ChatGLM4Bot";
 import KimiBot from "./moonshot/KimiBot";
+import DoubaoBot from "./DoubaoBot";
 import ClaudeAPIOpusBot from "./anthropic/ClaudeAPIOpusBot";
 import ClaudeAPI20Bot from "./anthropic/ClaudeAPI20Bot";
 import ClaudeAPI21Bot from "./anthropic/ClaudeAPI21Bot";
@@ -108,6 +109,7 @@ const all = [
   Llama370bGroqAPIBot.getInstance(),
   Mixtral8x7bGroqAPIBot.getInstance(),
   KimiBot.getInstance(),
+  DoubaoBot.getInstance(),
   MistralBot.getInstance(),
   MOSSBot.getInstance(),
   HuggingChatBot.getInstance(),
@@ -163,6 +165,7 @@ export const botTags = {
     bots.getBotByClassName("PhindBot"),
     bots.getBotByClassName("PiBot"),
     bots.getBotByClassName("KimiBot"),
+    bots.getBotByClassName("DoubaoBot"),
   ],
   paid: [
     bots.getBotByClassName("ChatGPT4Bot"),
@@ -222,6 +225,7 @@ export const botTags = {
     bots.getBotByClassName("ChatGLMBot"),
     bots.getBotByClassName("ChatGLM4Bot"),
     bots.getBotByClassName("KimiBot"),
+    bots.getBotByClassName("DoubaoBot"),
   ],
 };
 export default bots;

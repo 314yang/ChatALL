@@ -355,6 +355,11 @@ function createNewWindow({ url, userAgent = "", loginScript }) {
           access_token,
           refresh_token,
         });
+      } else if (url.startsWith("https://www.doubao.com/")) {
+        const session_id = await getCookie("sessionid");
+        mainWindow.webContents.send("DOUBAO-SESSIONID", {
+          session_id,
+        });
       }
     } catch (err) {
       console.error(err);
